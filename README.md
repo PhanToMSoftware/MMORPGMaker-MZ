@@ -3,6 +3,9 @@
 ---
 
 ## Summary
+
+Hello, my name is Axel Fiolle. 
+
 I started this project in late 2020. I discovered the MMO plugin project by Samuel Cardillo and was quite impressed by the quality of the result. Samuel and his community have made good work on it. 
 It was running on RPG Maker MV –which runs in JavaScript– and as a web developer I decided to make my very own MMO with it because I'm quite good with the technos the project uses. 
 After some weeks working on my game, I started to feel the need to have a better engine so I decided to migrate the MMO_Core plugins from MV to RPG Maker MZ. 
