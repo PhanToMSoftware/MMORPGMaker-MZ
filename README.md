@@ -83,6 +83,16 @@ I joined the project in September 2020 and made the MZ update a few months later
 - In-game chat
 - Registration page
 
+
+---
+
+This repack includes Creative Commons graphics by : 
+
+ - Avery
+ - Chalkdust
+ - hidenone
+ - whtdragon
+
 ---
 
 **See the progress : https://trello.com/b/m4leXuBa/mmorpg-maker-mv-version-1-todo-list**
@@ -90,3 +100,5 @@ I joined the project in September 2020 and made the MZ update a few months later
 **Join us on Discord : https://discord.gg/GVqyAwp**
 
 **Check the original project : https://github.com/samuelcardillo/MMORPGMaker-MV**
+
+**Check the MZ original project : https://github.com/Andaroth/MMORPGMaker-MZ/**
